@@ -1,0 +1,33 @@
+body{
+	font-size: 1.2rem;
+	text-align: center;
+
+}
+
+h1{
+	background-color: white;
+	border: 3px solid black;
+	background-color: darkblue;
+
+}
+span{
+	padding: 20px;
+	background-color: white;
+	border: 3px solid black;
+	background-color: darkblue;
+	font-size: 30px;
+	color: white;
+}
+
+p {
+	font-size: 30px;
+	font-style: oblique;
+	color: white;
+	background-color: darkred;
+	border: 3px solid black;
+	color: white;
+}
+.container1 {
+	float: center;
+	width: 30%;
+}
